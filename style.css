@@ -97,8 +97,7 @@ text-align: justify;
 /* Media Section */
 .media-containers{
 border-bottom: 3px solid black;  }
-.media-containers:nth-child(odd){
-}
+
 
 .media-h2{
   text-align: center;
